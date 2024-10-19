@@ -10,11 +10,15 @@
 
 # Arcane Kit
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/arc-eng-labs/kit)
+![GitHub issues](https://img.shields.io/github/issues/arc-eng-labs/kit)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/arc-eng-labs/kit)
+
 Welcome to the development kit for **[Arcane Engine](https://arcane.engineer/engine)**, a platform that enables developers to create agentic workflows easily.
 
 This project contains the official Python SDK.
 
-## Usage
+## 🚀 Usage
 
 Install the Python SDK using pip:
 
